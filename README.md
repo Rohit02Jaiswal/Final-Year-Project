@@ -12,7 +12,9 @@ and called this library with passing real hazy image. It will be implemented in 
 image enhancing, Real time Object detection for road safety, and CCTV image detection 
 for security. The accuracy obtain with the proposed method on the hazy image is 44.019
 dB.
-Keywords: Air light estimation, Erosion, Dilation, Transmission map, Boundary 
+
+### Keywords: 
+Air light estimation, Erosion, Dilation, Transmission map, Boundary 
 Constraints, Kirsch Filter, Convolution Filter, PSF, OTF, Zero padding.
 
 ## Result
