@@ -16,9 +16,9 @@ Keywords: Air light estimation, Erosion, Dilation, Transmission map, Boundary
 Constraints, Kirsch Filter, Convolution Filter, PSF, OTF, Zero padding.
 
 ## Result
-Hazy Image 
+### Hazy Image 
 ![image](https://github.com/user-attachments/assets/dd2dc8ff-87d7-4e93-9242-267cd444aa42)
 
-Enhanced Image
+### Enhanced Image
 ![image](https://github.com/user-attachments/assets/5e172e57-d93e-4490-8379-03e3f5430933)
 
